@@ -1,0 +1,15 @@
+# Node / Frontend dependencies & build
+civicfix-frontend/node_modules/
+civicfix-frontend/dist/
+civicfix-frontend/.env.local
+
+# Java / Backend builds & binary files
+civicfix-backend/target/
+civicfix-backend/.idea/
+civicfix-backend/*.iml
+civicfix-backend/.project
+civicfix-backend/.settings/
+
+# OS temporary files
+.DS_Store
+Thumbs.db
